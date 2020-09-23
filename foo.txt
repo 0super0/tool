@@ -3,3 +3,4 @@ modified-line
 modified-line
 modified-line
 finished removing lines
+finished removing lines
