@@ -30,3 +30,4 @@ Fri Oct 09 2020 16:19:37 GMT+0900 (Japan Standard Time)
 Sat Oct 10 2020 15:23:37 GMT+0900 (Japan Standard Time)
 Sun Oct 11 2020 15:40:37 GMT+0900 (Japan Standard Time)
 finished modifying lines
+finished removing lines
